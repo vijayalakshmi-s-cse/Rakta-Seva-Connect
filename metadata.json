@@ -1,0 +1,6 @@
+{
+  "name": "Rakta Seva Connect",
+  "description": "A life-saving bridge connecting blood donors with patients, hospitals, and blood banks. Features real-time emergency blood requests, nearby donor matching within 10KM, and a secure privacy-first communication system.",
+  "requestFramePermissions": ["location", "notification"],
+  "majorCapabilities": ["Real-time Matching", "Firebase Firestore", "FCM Notifications"]
+}
